@@ -1,0 +1,10 @@
+Django
+djangorestframework
+drf-yasg
+psycopg2-binary
+redis
+google-play-scraper
+schedule
+pytest
+pytest-django
+coreapi

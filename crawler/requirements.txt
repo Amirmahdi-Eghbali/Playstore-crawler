@@ -1,0 +1,4 @@
+redis
+schedule
+google-play-scraper
+psycopg2-binary
